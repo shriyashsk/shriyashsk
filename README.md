@@ -24,19 +24,21 @@
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,c,mysql" />
 </p>
 
 **Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 </p>
 
 **Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
 </p>
 
 **Data & Analytics**
@@ -44,17 +46,15 @@
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 </p>
 
 **ML / AI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK%20%2F%20VADER-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 **Security & Analysis**
@@ -82,7 +82,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyashsk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyashsk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
   <a href="www.linkedin.com/in/shriyash-kulkarni">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shriyashk1108@gmail.com">
+  <a href="mailto:shriyashk1103@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/shriyashsk">
@@ -106,18 +106,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=80&section=footer" />
 </p>
-
-<!--
-**shriyashsk/shriyashsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
