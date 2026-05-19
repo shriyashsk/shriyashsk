@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Final-year B.Tech CS (Cyber Security) @ **Manipal Institute of Technology, Bengaluru**
+- 🎓 Final-year B.Tech CSE with Cyber Security @ **Manipal Institute of Technology, Bengaluru**
 - 🔭 Currently building the **Pressure Index Engine** — cricket analytics with XGBoost + FastAPI + React
 - 🛡️ Previously built a **Static Malware Detector** (95% accuracy on EMBER 2017 dataset)
 - 🌐 Maintaining the **IWEC 2026** conference website for Ashoka University
